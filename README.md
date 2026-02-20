@@ -1,4 +1,5 @@
 # Nombre del proyecto 
 ## Descripción 
-## Metodología 
+## Metodologia 
+## Contacto 
 
